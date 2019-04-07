@@ -1,0 +1,14 @@
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\BN-MCMC.dll
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\BN-MCMC.pdb
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\Microsoft.GLEE.dll
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\Microsoft.GLEE.Drawing.dll
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\Microsoft.Msagl.dll
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\WindowsApplication.exe
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\Microsoft.GLEE.pdb
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\Microsoft.GLEE.Drawing.pdb
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\bin\WindowsApplication.pdb
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\obj\.NET 4.5\Debug\BN-MCMC.csprojResolveAssemblyReference.cache
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\obj\.NET 4.5\Debug\BN-MCMC.dll
+C:\Users\Az\Google Drive\Salem codes\BN-MCMC server\BN-MCMC\BN-MCMC\obj\.NET 4.5\Debug\BN-MCMC.pdb
