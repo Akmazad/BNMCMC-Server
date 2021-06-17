@@ -24,7 +24,7 @@ The standalone version (BN visualization missing) available for downloading at h
 }
 ```
 ## Demo
-[](img/bnmcmc1.png)
-[](img/bnmcmc2.png)
-[](img/bnmcmc3.png)
-[](img/bnmcmc4.png)
+![](img/bnmcmc1.png)
+![](img/bnmcmc2.png)
+![](img/bnmcmc3.png)
+![](img/bnmcmc4.png)
